@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">parsers2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_ex_menu">Назад</string>
+
+    <string name="checkbox1_title">CheckBox 1</string>
+    <string name="checkbox1_summary">Заменить пробелы на минусы</string>
+    <string name="checkbox2_title">CheckBox 2</string>
+    <string name="checkbox2_summary">Изменить телефонные номера</string>
+    <string name="checkbox3_title">CheckBox 3</string>
+    <string name="checkbox3_summary">Слова из 4-х букв</string>
+    <string name="checkbox4_title">CheckBox 4</string>
+    <string name="checkbox4_summary">Тэги</string>
+    <string name="checkbox5_title">CheckBox 5</string>
+    <string name="checkbox5_summary">Ссылки</string>
+</resources>

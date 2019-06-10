@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+            android:key="chb1"
+            android:summary="@string/checkbox1_summary"
+            android:title="@string/checkbox1_title">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+            android:key="chb2"
+            android:summary="@string/checkbox2_summary"
+            android:title="@string/checkbox2_title">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+            android:key="chb3"
+            android:summary="@string/checkbox3_summary"
+            android:title="@string/checkbox3_title">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+            android:key="chb4"
+            android:summary="@string/checkbox4_summary"
+            android:title="@string/checkbox4_title">
+    </CheckBoxPreference>
+
+    <CheckBoxPreference
+            android:key="chb5"
+            android:summary="@string/checkbox5_summary"
+            android:title="@string/checkbox5_title">
+    </CheckBoxPreference>
+
+</PreferenceScreen>
